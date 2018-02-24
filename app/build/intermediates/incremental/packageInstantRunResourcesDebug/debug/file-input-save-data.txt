@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Sat Feb 17 20:58:19 CST 2018
+7.path=jingtian.jpg
+2.base=D\:\\ProgramFiles\\Android\\AndroidStudioProjects\\QQ\\app\\build\\intermediates\\assets\\debug
+5.set=ASSET
+0.path=zhangzetian.jpg
+2.baseType=DIRECTORY
+3.base=D\:\\ProgramFiles\\Android\\AndroidStudioProjects\\QQ\\app\\build\\intermediates\\assets\\debug
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=songhuiqiao.jpg
+4.base=D\:\\ProgramFiles\\Android\\AndroidStudioProjects\\QQ\\app\\build\\intermediates\\assets\\debug
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=songqian.jpg
+5.base=D\:\\ProgramFiles\\Android\\AndroidStudioProjects\\QQ\\app\\build\\intermediates\\assets\\debug
+4.set=ASSET
+3.path=dengziqi.jpg
+6.base=D\:\\ProgramFiles\\Android\\AndroidStudioProjects\\QQ\\app\\build\\intermediates\\assets\\debug
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=liuyifei.jpg
+7.base=D\:\\ProgramFiles\\Android\\AndroidStudioProjects\\QQ\\app\\build\\intermediates\\assets\\debug
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=hangxiaozhu.jpg
+0.base=D\:\\ProgramFiles\\Android\\AndroidStudioProjects\\QQ\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=kangyikun.jpg
+1.base=D\:\\ProgramFiles\\Android\\AndroidStudioProjects\\QQ\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET

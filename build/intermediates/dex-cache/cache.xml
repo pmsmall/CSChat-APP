@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_a8226d6eebcfc46214ae1fb3efc172c8dce5a61c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_e36d16bea61a59a7434e496ada3d779ff6f091cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\libs\java-websocket.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e16715c6ec9325c978c939c19986e3ce0ba877ab">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\java-websocket_e855c5c7347456982fccde123a6783f245edd4cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\libs\zxing-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\zxing-1.6_648663b05ffdc26318d5ae54b8a23011fd129cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_136c38108fbfaa2b475dda43506a9ba094123ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_8164e98d7378a4da0ba44677429167b5928cd39e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_95712d51ad5a8db114aeb500f58a529afbd3d394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_0e0d1ff3579807ab87103474827499e095afc5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_75658fcef143bf45a5a8b55dbb05e6be54cc0db2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_34aaedc39601d3ff3280e8644cce3398024fd109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_040c379c86a0a584a79ce3e48eb72eb2757d1474.jar" />
+    </item>
+
+</items>

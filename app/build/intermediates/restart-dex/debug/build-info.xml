@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="151425757944200"
+    token="-914643988257601979"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="5755" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="133" />
+    <task
+        name="verifier"
+        duration="32" />
+
+    <artifact
+        location="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="150228492163888"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="150704571856286"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="151425757944200"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\ProgramFiles\Android\AndroidStudioProjects\xiaochu\QQ\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
